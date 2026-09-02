@@ -25,6 +25,8 @@
                 "-Wduplicated-branches",
                 "-Wlogical-op",
                 "-Wuseless-cast",
+                "-Wimplicit-fallthrough",
+                "-Wsuggest-override",
                 "-fsanitize=address,undefined,leak",
                 "-fdiagnostics-color=always",
                 "-g",
